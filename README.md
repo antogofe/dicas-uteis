@@ -1,2 +1,2 @@
 # dicas-uteis
-Relação de dicas para o dia a de um desenvolvedor 
+Relação de dicas para o dia a dia de um desenvolvedor.
